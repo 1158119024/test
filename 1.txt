@@ -1,0 +1,178 @@
+{
+    "result": {
+        "error": "",
+        "code": "200",
+        "rows": [
+            {
+                "NAME": "开发区组织人事局",
+                "PARENT_CODE": "44011600000O",
+                "SORT_ORDER": 1,
+                "SHORT_NAME": "开发区组织人事局",
+                "CODE": "440116909"
+            },
+            {
+                "NAME": "开发区房地产管理所",
+                "PARENT_CODE": "44011600000O",
+                "SORT_ORDER": 1,
+                "SHORT_NAME": "开发区房地产管理所",
+                "CODE": "440116905"
+            },
+            {
+                "NAME": "开发区建设工程质量安全监督站",
+                "PARENT_CODE": "44011600000O",
+                "SORT_ORDER": 1,
+                "SHORT_NAME": "开发区建设工程质量安全监督站",
+                "CODE": "440116906"
+            },
+            {
+                "NAME": "开发区土地开发储备交易中心",
+                "PARENT_CODE": "44011600000O",
+                "SORT_ORDER": 1,
+                "SHORT_NAME": "开发区土地开发储备交易中心",
+                "CODE": "440116904"
+            },
+            {
+                "NAME": "开发区发展改革和金融工作局",
+                "PARENT_CODE": "44011600000O",
+                "SORT_ORDER": 1,
+                "SHORT_NAME": "开发区发展改革和金融工作局",
+                "CODE": "732979349"
+            },
+            {
+                "NAME": "开发区经济发展局",
+                "PARENT_CODE": "44011600000O",
+                "SORT_ORDER": 2,
+                "SHORT_NAME": "开发区经济发展局",
+                "CODE": "747598848"
+            },
+            {
+                "NAME": "开发区科技创新和知识产权局",
+                "PARENT_CODE": "44011600000O",
+                "SORT_ORDER": 4,
+                "SHORT_NAME": "开发区科技创新和知识产权局",
+                "CODE": "578022134"
+            },
+            {
+                "NAME": "广州开发区财政局",
+                "PARENT_CODE": "44011600000O",
+                "SORT_ORDER": 10,
+                "SHORT_NAME": "开发区财政局",
+                "CODE": "007484001"
+            },
+            {
+                "NAME": "开发区劳动和社会保障局",
+                "PARENT_CODE": "44011600000O",
+                "SORT_ORDER": 11,
+                "SHORT_NAME": "开发区劳动和社会保障局",
+                "CODE": "581893969"
+            },
+            {
+                "NAME": "开发区建设和环境保护局",
+                "PARENT_CODE": "44011600000O",
+                "SORT_ORDER": 12,
+                "SHORT_NAME": "开发区建设和环境保护局",
+                "CODE": "061106378"
+            },
+            {
+                "NAME": "开发区投资促进局",
+                "PARENT_CODE": "44011600000O",
+                "SORT_ORDER": 13,
+                "SHORT_NAME": "开发区投资促进局",
+                "CODE": "G34105827"
+            },
+            {
+                "NAME": "西区产业园管理委员会（保税业务管理局）",
+                "PARENT_CODE": "44011600000O",
+                "SORT_ORDER": 14,
+                "SHORT_NAME": "西区产业园管理委员会（保税业务管理局）",
+                "CODE": "755582475"
+            },
+            {
+                "NAME": "广州开发区行政审批局",
+                "PARENT_CODE": "44011600000O",
+                "SORT_ORDER": 15,
+                "SHORT_NAME": "广州开发区行政审批局",
+                "CODE": "440116901"
+            },
+            {
+                "NAME": "中国国际贸易促进委员会广州开发区委员会",
+                "PARENT_CODE": "44011600000O",
+                "SORT_ORDER": 16,
+                "SHORT_NAME": "中国国际贸易促进委员会广州开发区委员会",
+                "CODE": "440116902"
+            },
+            {
+                "NAME": "开发区交通管理总站",
+                "PARENT_CODE": "44011600000O",
+                "SORT_ORDER": 16,
+                "SHORT_NAME": "开发区交通管理总站",
+                "CODE": "063304256"
+            },
+            {
+                "NAME": "开发区人才交流服务中心",
+                "PARENT_CODE": "44011600000O",
+                "SORT_ORDER": 17,
+                "SHORT_NAME": "开发区人才交流服务中心",
+                "CODE": "440116903"
+            },
+            {
+                "NAME": "开发区市场和质量监督管理局",
+                "PARENT_CODE": "44011600000O",
+                "SORT_ORDER": 18,
+                "SHORT_NAME": "开发区市场和质量监督管理局",
+                "CODE": "78376433X"
+            },
+            {
+                "NAME": "开发区国土资源和规划局",
+                "PARENT_CODE": "44011600000O",
+                "SORT_ORDER": 20,
+                "SHORT_NAME": "开发区国土资源和规划局",
+                "CODE": "00748401X"
+            },
+            {
+                "NAME": "开发区安全生产监督管理局",
+                "PARENT_CODE": "44011600000O",
+                "SORT_ORDER": 23,
+                "SHORT_NAME": "开发区安全生产监督管理局",
+                "CODE": "781235602"
+            },
+            {
+                "NAME": "开发区供水管理中心",
+                "PARENT_CODE": "44011600000O",
+                "SORT_ORDER": 24,
+                "SHORT_NAME": "开发区供水管理中心",
+                "CODE": "455348118"
+            },
+            {
+                "NAME": "开发区余泥渣土管理所",
+                "PARENT_CODE": "44011600000O",
+                "SORT_ORDER": 27,
+                "SHORT_NAME": "开发区余泥渣土管理所",
+                "CODE": "797378288"
+            },
+            {
+                "NAME": "开发区社会保险基金管理中心",
+                "PARENT_CODE": "44011600000O",
+                "SORT_ORDER": 30,
+                "SHORT_NAME": "开发区社会保险基金管理中心",
+                "CODE": "698675703"
+            },
+            {
+                "NAME": "开发区城市建设及房地产档案馆",
+                "PARENT_CODE": "44011600000O",
+                "SORT_ORDER": 33,
+                "SHORT_NAME": "开发区城市建设及房地产档案馆",
+                "CODE": "665939020"
+            },
+            {
+                "NAME": "开发区劳动就业服务管理中心",
+                "PARENT_CODE": "44011600000O",
+                "SORT_ORDER": 35,
+                "SHORT_NAME": "开发区劳动就业服务管理中心",
+                "CODE": "698699705"
+            }
+        ]
+    },
+    "error": "",
+    "code": "200"
+}
